@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nombre": "Leche entera",
+    "categoria": "Lácteos",
+    "imagen": "https://i.imgur.com/leche.png",
+    "comprador": "Ana"
+  },
+  {
+    "id": 2,
+    "nombre": "Pan de molde",
+    "categoria": "Panadería",
+    "imagen": "https://i.imgur.com/pan.png",
+    "comprador": "Carlos"
+  },
+  {
+    "id": 3,
+    "nombre": "Huevos camperos",
+    "categoria": "Huevos",
+    "imagen": "https://i.imgur.com/huevos.png",
+    "comprador": "Laura"
+  },
+  {
+    "id": 4,
+    "nombre": "Arroz basmati",
+    "categoria": "Cereales",
+    "imagen": "https://i.imgur.com/arroz.png",
+    "comprador": "Miguel"
+  },
+  {
+    "id": 5,
+    "nombre": "Tomate triturado",
+    "categoria": "Conservas",
+    "imagen": "https://i.imgur.com/tomate.png",
+    "comprador": "Sofía"
+  },
+  {
+    "id": 6,
+    "nombre": "Aceite de oliva",
+    "categoria": "Aceites",
+    "imagen": "https://i.imgur.com/aceite.png",
+    "comprador": "Javier"
+  },
+  {
+    "id": 7,
+    "nombre": "Queso curado",
+    "categoria": "Lácteos",
+    "imagen": "https://i.imgur.com/queso.png",
+    "comprador": "Elena"
+  },
+  {
+    "id": 8,
+    "nombre": "Manzanas",
+    "categoria": "Frutas",
+    "imagen": "https://i.imgur.com/manzanas.png",
+    "comprador": "Pedro"
+  }
+]
