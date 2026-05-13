@@ -1,49 +1,49 @@
 [
   {
-    "id": 1,
+   
     "nombre": "Leche entera",
     "categoria": "Lácteos",
     "imagen": "https://es.wikipedia.org/wiki/Leche#/media/Archivo:Milk_glass.jpg"
   },
   {
-    "id": 2,
+    
     "nombre": "Pan de molde",
     "categoria": "Panadería",
     "imagen": "https://es.wikipedia.org/wiki/Pan_de_molde#/media/Archivo:Brood.jpg"
   },
   {
-    "id": 3,
+   
     "nombre": "Huevos camperos",
     "categoria": "Huevos",
     "imagen": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Eggs_in_basket_2020_G1.jpg"
   },
   {
-    "id": 4,
-    "nombre": "Arroz basmati",
+    
+    "nombre": "Arroz",
     "categoria": "Cereales",
     "imagen": "https://es.wikipedia.org/wiki/Basmati#/media/Archivo:Basmati_Rice_Kolkata_2011-02-11_1054.JPG"
   },
   {
-    "id": 5,
+    
     "nombre": "Tomate triturado",
     "categoria": "Conservas",
     "imagen": "https://es.wikipedia.org/wiki/Tomate_en_conserva#/media/Archivo:Tomato_pure.jpg"
   },
   {
-    "id": 6,
+    
     "nombre": "Aceite de oliva",
     "categoria": "Aceites",
     "imagen": "https://es.wikipedia.org/wiki/Aceite_de_oliva#/media/Archivo:Aceite_de_oliva.png",
     "comprador": "Javier"
   },
   {
-    "id": 7,
+    
     "nombre": "Queso curado",
     "categoria": "Lácteos",
     "imagen": "https://es.wikipedia.org/wiki/Queso#/media/Archivo:Quesos-LaRural-00921.jpg"
   },
   {
-    "id": 8,
+    
     "nombre": "Manzanas",
     "categoria": "Frutas",
     "imagen": "https://es.wikipedia.org/wiki/Manzana#/media/Archivo:Owoce_Jab%C5%82ko.jpg"
