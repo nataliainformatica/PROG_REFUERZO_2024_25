@@ -3,13 +3,13 @@
    
     "nombre": "Leche entera",
     "categoria": "Lácteos",
-    "imagen": "https://es.wikipedia.org/wiki/Leche#/media/Archivo:Milk_glass.jpg"
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Milk_glass.jpg"
   },
   {
     
     "nombre": "Pan de molde",
     "categoria": "Panadería",
-    "imagen": "https://es.wikipedia.org/wiki/Pan_de_molde#/media/Archivo:Brood.jpg"
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Brood.jpg"
   },
   {
    
@@ -21,31 +21,31 @@
     
     "nombre": "Arroz",
     "categoria": "Cereales",
-    "imagen": "https://es.wikipedia.org/wiki/Basmati#/media/Archivo:Basmati_Rice_Kolkata_2011-02-11_1054.JPG"
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Basmati_Rice_Kolkata_2011-02-11_1054.JPG/1280px-Basmati_Rice_Kolkata_2011-02-11_1054.JPG"
   },
   {
     
     "nombre": "Tomate triturado",
     "categoria": "Conservas",
-    "imagen": "https://es.wikipedia.org/wiki/Tomate_en_conserva#/media/Archivo:Tomato_pure.jpg"
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Tomato_pure.jpg/960px-Tomato_pure.jpg"
   },
   {
     
     "nombre": "Aceite de oliva",
     "categoria": "Aceites",
-    "imagen": "https://es.wikipedia.org/wiki/Aceite_de_oliva#/media/Archivo:Aceite_de_oliva.png",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Eggs_in_basket_2020_G1.jpg",
     "comprador": "Javier"
   },
   {
     
     "nombre": "Queso curado",
     "categoria": "Lácteos",
-    "imagen": "https://es.wikipedia.org/wiki/Queso#/media/Archivo:Quesos-LaRural-00921.jpg"
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Quesos-LaRural-00921.jpg?utm_source=es.wikipedia.org&utm_campaign=imageinfo&utm_content=original"
   },
   {
     
     "nombre": "Manzanas",
     "categoria": "Frutas",
-    "imagen": "https://es.wikipedia.org/wiki/Manzana#/media/Archivo:Owoce_Jab%C5%82ko.jpg"
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Owoce_Jab%C5%82ko.jpg/960px-Owoce_Jab%C5%82ko.jpg"
   }
 ]
