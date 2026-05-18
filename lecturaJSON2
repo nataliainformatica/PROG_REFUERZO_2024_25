@@ -17,12 +17,12 @@
   {
     "nombre": "Arroz",
     "categoria": "Cereales",
-    "imagen": "https://raw.githubusercontent.com/nataliainformatica/PROG_REFUERZO_2024_25/main/imagenes/1280px-Basmati_Rice_Kolkata_2011-02-11_1054.JPG"
+    "imagen": "https://raw.githubusercontent.com/nataliainformatica/PROG_REFUERZO_2024_25/main/imagenes/Basmati_Rice_Kolkata_2011-02-11_1054.JPG"
   },
   {
     "nombre": "Tomate triturado",
     "categoria": "Conservas",
-    "imagen": "https://raw.githubusercontent.com/nataliainformatica/PROG_REFUERZO_2024_25/main/imagenes/960px-Tomato_pure.jpg"
+    "imagen": "https://raw.githubusercontent.com/nataliainformatica/PROG_REFUERZO_2024_25/main/imagenes/Tomato_pure.jpg"
   },
   {
     "nombre": "Aceite de oliva",
@@ -38,6 +38,6 @@
   {
     "nombre": "Manzanas",
     "categoria": "Frutas",
-    "imagen": "https://raw.githubusercontent.com/nataliainformatica/PROG_REFUERZO_2024_25/main/imagenes/960px-Owoce_Jab%C5%82ko.jpg"
+    "imagen": "https://raw.githubusercontent.com/nataliainformatica/PROG_REFUERZO_2024_25/main/imagenes/Owoce_Jabłko.jpg"
   }
 ]
